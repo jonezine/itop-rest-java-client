@@ -14,6 +14,7 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 dependencies {
+    compile("org.springframework:spring-web:4.2.4.RELEASE")
     compile("org.json:json:20151123")
 }
 
